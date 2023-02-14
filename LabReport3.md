@@ -48,4 +48,3 @@ words from different files.
 
  
  The definition of four grep are from grep --help;
- 
